@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# Local notes / drafts (keep private)
+*.local
+*.draft.md
+/private/
+
+# backups & internal docs (never publish)
+*.bak*
+*.bak_*
+CLAUDE.md
