@@ -1,6 +1,6 @@
 # 5 Free Falcon FQL Queries (sample)
 
-A free sample from **[GhostIntel Press](https://ghosintel.es)** by GhostIntel Press. Paste them into your Falcon console and adapt. Each line is real, executable FQL.
+A free sample from **[GhostIntel Press](https://ghosintel.gumroad.com)** by GhostIntel Press. Paste them into your Falcon console and adapt. Each line is real, executable FQL.
 
 > These 5 cover 5 different ATT&CK tactics. Real, executable, false-positive-aware — a taste of the FQL inside the CCFA bundle.
 
@@ -47,6 +47,6 @@ event_simpleName=ProcessRollup2 | filter ImageFileName IN("wevtutil.exe","powers
 ---
 
 ## Preparing the CCFA / CCFR exam?
-The **CCFA + CCFR Master Bundle** packs **30 bonus FQL** with 600 explained questions, 2 mock exams and a 77-page masterclass PDF (EN/ES). **€49** · launch **€24,50** with `LAUNCH50` → https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep
+The **CCFA + CCFR Master Bundle** packs **30 bonus FQL** with 600 explained questions, 2 mock exams and a 77-page masterclass PDF (EN/ES). **€49** · launch **€24,50** with `LAUNCH50` → https://ghosintel.gumroad.com/l/falcon-ccfa-ccfr-exam-prep
 
 *Not affiliated with CrowdStrike. Test every detection in your environment before relying on it.*

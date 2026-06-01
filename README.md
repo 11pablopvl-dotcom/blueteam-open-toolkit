@@ -1,7 +1,7 @@
 # Blue Team Open Toolkit 🛡️
 
 > Curated **free** resources for **CrowdStrike Falcon** detection engineering, threat hunting and **CCFA / CCFR** exam prep — in English **and Spanish**.
-> Maintained by **[GhostIntel Press](https://ghosintel.es)**.
+> Maintained by **[GhostIntel Press](https://ghosintel.gumroad.com)**.
 
 If this saves you time, **drop a ⭐** — it's how more blue teamers find it.
 
@@ -71,7 +71,7 @@ The free resources above point you to the material. The **paid bundle is the syn
 | 🎁 **CCFA Free Starter Kit** | 12 real questions (interactive) + 6-domain exam map + 5 FQL | **Free** → [launch](ccfa-free/) |
 | ⭐ **CCFA + CCFR Master Bundle** | **600 questions** (330 EN + 270 ES · offline HTML, no login) + 2 timed mock exams (60 Q each) + 77-page Spring-2026 masterclass PDF + editable JSON bank + 30 bonus FQL — covers 100% CCFA + ~70% CCFR | **€49** |
 
-👉 **Get the bundle → https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep**
+👉 **Get the bundle → https://ghosintel.gumroad.com/l/falcon-ccfa-ccfr-exam-prep**
 🎁 Launch code `LAUNCH50` → **€24,50** (−50%, first 7 days)
 
 ---
@@ -83,4 +83,4 @@ Found a great free resource? Open a PR. Keep it **vendor-honest** and **practiti
 Curated links belong to their authors. This list and our checklists: **CC BY 4.0**.
 **Not affiliated with CrowdStrike.** Independent material based on publicly documented objectives.
 
-Contact: **support@ghosintel.es** · by [GhostIntel Press](https://ghosintel.es)
+Contact: **support@ghosintel.es** · by [GhostIntel Press](https://ghosintel.gumroad.com)

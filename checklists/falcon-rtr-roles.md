@@ -17,6 +17,6 @@ RTR lets analysts run commands on a remote host live. **Which role can do what**
 - **Administrator** → very few people; managing the scripts library is powerful (a malicious or sloppy script runs everywhere).
 - All RTR actions are **audited** — review the RTR audit logs as part of your detection program.
 
-> Going for the CCFR exam? The **CCFA + CCFR Master Bundle** covers detection triage, RTR and response end-to-end → [GhostIntel Press](https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep)
+> Going for the CCFR exam? The **CCFA + CCFR Master Bundle** covers detection triage, RTR and response end-to-end → [GhostIntel Press](https://ghosintel.gumroad.com/l/falcon-ccfa-ccfr-exam-prep)
 
 *Roles and command availability are configurable and evolve — confirm exact command-to-role mapping in your tenant and the official CrowdStrike docs. Not affiliated with CrowdStrike.*

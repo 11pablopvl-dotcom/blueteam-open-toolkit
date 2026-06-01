@@ -31,6 +31,6 @@ These are concept pairs people fail on. Master the *difference*, not the definit
 The hardest part is **realistic, explained practice questions** — that's the gap most Spanish-speaking candidates hit.
 
 > **CCFA + CCFR Master Bundle** → 600 questions (330 EN + 270 ES · offline, no login), 2 timed mock exams, 77-page Spring-2026 PDF, editable JSON bank + 2-week recovery plan. Covers 100% CCFA + ~70% CCFR. Pass without the ~€2,000 official course.
-> 👉 **€49** · launch **€24,50** with code `LAUNCH50` → https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep
+> 👉 **€49** · launch **€24,50** with code `LAUNCH50` → https://ghosintel.gumroad.com/l/falcon-ccfa-ccfr-exam-prep
 
 *Not affiliated with CrowdStrike. Based on publicly documented exam objectives.*

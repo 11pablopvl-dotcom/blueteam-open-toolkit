@@ -24,6 +24,6 @@ The 14 Enterprise tactics, in attack order. Use this as a mental model when tria
 2. **Don't over-invest in one tactic.** Most teams over-cover Execution and under-cover Defense Evasion + Credential Access.
 3. **Pair with [DeTT&CT](https://github.com/rabobank-cdc/DeTTECT)** to score your data-source visibility per tactic.
 
-> Preparing CCFA / CCFR? The **Master Bundle** maps detection investigation to these tactics with 600 explained questions → [GhostIntel Press](https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep)
+> Preparing CCFA / CCFR? The **Master Bundle** maps detection investigation to these tactics with 600 explained questions → [GhostIntel Press](https://ghosintel.gumroad.com/l/falcon-ccfa-ccfr-exam-prep)
 
 *Source: [attack.mitre.org](https://attack.mitre.org/). Public framework — verify technique IDs against the live matrix.*
