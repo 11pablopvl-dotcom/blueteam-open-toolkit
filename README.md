@@ -64,7 +64,7 @@ Practical, vendor-neutral, **no login required**:
 ---
 
 ## 🚀 The exam prep that isn't a dump
-The free resources above point you to the material. The **paid bundle is the synthesized shortcut to actually pass** — legitimate (no NDA dumps), **bilingual (EN + ES)**, built by Pablo Piedrabuena, a cybersecurity expert and Tier-3 (N3) CrowdStrike analyst at one of Spain’s largest telecoms.
+The free resources above point you to the material. The **paid bundle is the synthesized shortcut to actually pass** — legitimate (no NDA dumps), **bilingual (EN + ES)**, built by Pablo Piedrabuena, a cybersecurity expert and Tier-3 (N3) CrowdStrike analyst at one of Spain’s largest telecoms, in the field since 2018.
 
 | | What you get | Price |
 |---|---|---|
