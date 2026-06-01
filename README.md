@@ -69,7 +69,7 @@ The free resources above point you to the material. The **paid bundle is the syn
 | | What you get | Price |
 |---|---|---|
 | 🎁 **CCFA Free Starter Kit** | 12 real questions (interactive) + 6-domain exam map + 5 FQL | **Free** → [launch](ccfa-free/) |
-| ⭐ **CCFA + CCFR Master Bundle** | **600 questions** (330 EN + 270 ES · offline HTML, no login) + 2 timed mock exams (60 + 70 Q) + 77-page Spring-2026 masterclass PDF + editable JSON bank + 30 bonus FQL — covers 100% CCFA + ~70% CCFR | **€49** |
+| ⭐ **CCFA + CCFR Master Bundle** | **600 questions** (330 EN + 270 ES · offline HTML, no login) + 2 timed mock exams (60 Q each) + 77-page Spring-2026 masterclass PDF + editable JSON bank + 30 bonus FQL — covers 100% CCFA + ~70% CCFR | **€49** |
 
 👉 **Get the bundle → https://ghosintel.es/l/falcon-ccfa-ccfr-exam-prep**
 🎁 Launch code `LAUNCH50` → **€24,50** (−50%, first 7 days)
